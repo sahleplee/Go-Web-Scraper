@@ -1,0 +1,15 @@
+# Çıktı dosyaları
+site_data.html
+screenshot.png
+
+# Binary dosyalar
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+scrapper
+
+# IDE ayarları
+.vscode/
+.idea/
